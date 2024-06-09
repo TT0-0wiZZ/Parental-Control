@@ -1,7 +1,7 @@
 ﻿using System.Runtime.InteropServices;
 using System.Diagnostics;
 
-const string URL = "https://ttwizz.su/ParentalControl.txt";
+const string URL = "https://twix.cyou/ParentalControl.txt";
 
 [DllImport("kernel32.dll")]
 static extern IntPtr GetConsoleWindow();
